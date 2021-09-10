@@ -20,7 +20,7 @@ const Dashboard = () => {
                         <DonutChart />
                     </div>
                 </div>
-                <div className="row py-3">
+                <div className="py-3">
                     <h2 className="text-primary">Total de vendas</h2>
                     <DataTable />
                 </div>
